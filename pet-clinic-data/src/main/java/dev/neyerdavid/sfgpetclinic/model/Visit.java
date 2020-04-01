@@ -1,6 +1,6 @@
 package dev.neyerdavid.sfgpetclinic.model;
 
-import java.time.LocalDate
+import java.time.LocalDate;
 
 public class Visit extends BaseEntity {
 
